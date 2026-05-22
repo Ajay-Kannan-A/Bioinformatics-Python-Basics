@@ -6,8 +6,8 @@
 
 - DNA nucleotide counter
 - Reverse complement generator
-- GC content calculator
-- DNA transcription
+- GC and AT content calculator
+- DNA to RNA transcription
 - RNA translation to protein sequence
 
 ## Skills Practiced
